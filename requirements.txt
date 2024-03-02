@@ -1,3 +1,5 @@
+streamlit
+pandas
 numpy
 cv2
 PIL
